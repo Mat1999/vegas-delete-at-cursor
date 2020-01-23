@@ -1,0 +1,1 @@
+# vegas-delete-at-cursor
